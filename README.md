@@ -38,7 +38,6 @@ Criar uma aplicação de gerenciamento de um sistema de missões ninjas na Vila 
 ## Entrega
 - O código deve ser enviado via repositório Git (GitHub, GitLab ou Bitbucket)
 - O README deve conter instruções para rodar a aplicação
-- O tempo estimado de execução do desafio é de 4 a 6 horas
 
 Boa sorte, que o ninja mais habilidoso se torne Hokage!
 
